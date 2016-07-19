@@ -1,10 +1,14 @@
 my-personal-projects
 
 
-*Name* :
+*Name* :home away from home
 
-**Link**:
+**Link**:http://hosp.bitballoon.com/
 
-**Description**: 
+**Description**: a webpage on hospitality and its feature explaining the benefits, history and portfolio
 
-**Features**:
+**Features**:home
+
+Tools used: html, css, Foundation,javascript
+
+Contributors: Article Intro Effect

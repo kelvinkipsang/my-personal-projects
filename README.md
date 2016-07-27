@@ -1,6 +1,6 @@
 
 
-#*Name* : **My Profile**
+# *My Profile*
 
 **Link**:http://profprofile.bitballoon.com/
 

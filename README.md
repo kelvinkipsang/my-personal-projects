@@ -1,6 +1,6 @@
 
 
-#*Name* : ##**My Profile**
+#*Name* : **My Profile**
 
 **Link**:http://profprofile.bitballoon.com/
 
@@ -23,7 +23,7 @@ Contributors: tympanus hover effects,profile hover effects( codepen)
 
 
 
-#*Name* :##home away from home
+#*Name* :home away from home
 
 *Link*:http://hosp.bitballoon.com/
 

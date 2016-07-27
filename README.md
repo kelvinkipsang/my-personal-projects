@@ -23,7 +23,7 @@
 
 
 
-##*Name* :home away from home
+##1. Home away from home
 
 **Link**:http://hosp.bitballoon.com/
 
@@ -38,7 +38,7 @@
 
 
 
-##*Name* : Euro 16
+##2 . Euro 16
 
 **Link**:http://proj2.bitballoon.com/
 

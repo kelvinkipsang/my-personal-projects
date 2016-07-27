@@ -13,7 +13,12 @@ Tools used: html, css, Foundation,javascript
 Contributors: tympanus hover effects,profile hover effects( codepen) 
 
 
-my-personal-projects
+
+
+
+
+**My-personal-projects**
+
 
 
 *Name* :home away from home
@@ -27,6 +32,8 @@ my-personal-projects
 Tools used: html, css, Foundation,javascript
 
 Contributors: Article Intro Effect
+
+
 
 
 *Name* : Euro 16

@@ -1,6 +1,6 @@
-**My Profile**
 
-*Name* : professionalprofile
+
+#*Name* : ##**My Profile**
 
 **Link**:http://profprofile.bitballoon.com/
 
@@ -17,13 +17,13 @@ Contributors: tympanus hover effects,profile hover effects( codepen)
 
 
 
-**My-personal-projects**
+#**My-personal-projects**
 
 
 
 
 
-*Name* :home away from home
+#*Name* :##home away from home
 
 *Link*:http://hosp.bitballoon.com/
 
@@ -38,7 +38,7 @@ Contributors: tympanus hover effects,profile hover effects( codepen)
 
 
 
-*Name* : Euro 16
+#*Name* : Euro 16
 
 *Link*:http://proj2.bitballoon.com/
 

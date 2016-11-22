@@ -4,6 +4,8 @@
 
 **Link**:http://kelvinkip.netlify.com/
 
+**Github Link**:https://github.com/kelvinkipsang/pprofile
+
 **Description**: my personal professional website
 
 **Features**:home,about, projects 
@@ -13,8 +15,13 @@
 **Contributors**: Kelvin Kipsang 
 
 
+# *Blog*
 
+**Link**:http://kelvinkipsang.github.io/
 
+**Github Link**: https://github.com/kelvinkipsang/kelvinkipsang.github.io
+
+**Contributors**: Kelvin Kipsang
 
 
 #**My-personal-projects**

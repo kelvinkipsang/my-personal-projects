@@ -4,7 +4,7 @@
 
 **Link**:http://kelvinkip.netlify.com/
 
-**Github Link**:https://github.com/kelvinkipsang/pprofile
+**Github Link**:https://github.com/kelvinkipsang/profilep
 
 **Description**: my personal professional website
 

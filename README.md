@@ -2,15 +2,15 @@
 
 # *My Profile*
 
-**Link**:http://profprofile.bitballoon.com/
+**Link**:http://kelvinkip.netlify.com/
 
-**Description**: a webpage on the euro 16 competition including a gallery and a brief history of this edition of the competition
+**Description**: my personal professional website
 
-**Features**:home
+**Features**:home,about, projects 
 
 **Tools used**: html, css, Foundation,javascript
 
-**Contributors**: tympanus hover effects,profile hover effects( codepen) 
+**Contributors**: Kelvin Kipsang 
 
 
 
@@ -23,17 +23,17 @@
 
 
 
-##1. Home away from home
+##1. Styles Conference
 
-**Link**:http://hosp.bitballoon.com/
+**Link**: http://stylesconf.netlify.com/
 
-**Description**: a webpage on hospitality and its feature explaining the benefits, history and portfolio
+**Description**: a website for booking reservations to conferences 
 
-**Features**:home
+**Features**:home, about,speakers, register ,venue
 
-**Tools used**: html, css, Foundation,javascript
+**Tools used**: html, css
 
-**Contributors**: Article Intro Effect
+**Contributors**: Kelvin Kipsang
 
 
 
@@ -46,7 +46,87 @@
 
 **Features**:home
 
-**Tools used**: html, css, Foundation,javascript
+**Tools used**: html, css, Foundation,javascript,Article Intro Effect,shape hover effect( codrops) 
 
-**Contributors**: Article Intro Effect,shape hover effect( codrops) 
+**Contributors**: Kelvin Kipsang
+
+
+
+##3 . Sage
+
+**Link**:http://mysage.netlify.com/
+
+**Description**: a PSD to HTML site dedicated to building of websites and web apps
+
+**Features**:home,work, about, contact
+
+**Tools used**: html, css, Foundation,javascript,hover effect( codrops) 
+
+**Contributors**: Kelvin Kipsang
+
+
+# Back-end and other projects
+
+##1 . linked in bot 
+
+**Link**:http://www.github.com.com/kelvinkipsang/linked_in_bot
+
+**Description**:  visits pages of prospective employers (based on your connections) giving them a notification. Consequently,they'll visit your profile and if they like it,they will 
+
+**Tools used**: Python, Selenium & BeautifulSoup 
+
+**Contributors**: Kelvin Kipsang
+
+
+
+##2 . Blog 
+
+**Link**:http://www.github.com.com/kelvinkipsang/python-blog
+
+**Description**:  A forum allowing discussion of discrimination and stigma in our society. 
+
+**Features**: talks, profile, new talk, moderation, login/logout
+
+**Tools used**: Python/flask, html, Flask-bootstrap, gravatar
+
+**Contributors**: Kelvin Kipsang
+
+
+##3 . Github search
+
+**Link**:http://www.github.com.com/kelvinkipsang/github-search 
+
+**Description**:  a django app that can search through github users returning their respective details
+
+**Features**: Home ,search, about
+
+**Tools used**: Python/Django, html, bootstrap, requests
+
+**Contributors**: Kelvin Kipsang
+
+
+
+##4 . Face Detect
+
+**Link**:http://www.github.com.com/kelvinkipsang/face-detection
+
+**Description**:  A face detection program that works with videos, pictures and a camera
+
+**Tools used**: Python, CV2
+
+**Contributors**: Kelvin Kipsang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
